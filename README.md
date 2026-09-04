@@ -5,4 +5,4 @@
 
 2. **Chosse a model *(qwen3-coder:30b)***
 
-  ollama pull qwen3-coder:30b
+  `ollama pull qwen3-coder:30b`
