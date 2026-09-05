@@ -18,6 +18,5 @@
 4. **Use the `.exe` launcher (Optional)**
 
    Unzip `launch_claude.zip`, navigate to `dist\launch_claude`, and add `launch_claude.exe` to the desktop.
-
-
-[Download launch_claude.zip](./launch_claude.zip)
+  
+   [Download launch_claude.zip](./launch_claude.zip)
