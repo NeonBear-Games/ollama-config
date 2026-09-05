@@ -10,7 +10,7 @@
 3. **Launch via claude code**
 
   `ollama launch claude --config`
-  choose qwen3-coder:30b
+  choose qwen3-coder:30b  
 
   4.**A .exe for launching**  
   Unzip`launch_claude.zip`  
