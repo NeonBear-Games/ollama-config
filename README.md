@@ -12,6 +12,6 @@
   `ollama launch claude --config`
   choose qwen3-coder:30b
 
-  Or Unzip`launch_claude.zip`
-  navigate to \dist\launch_claude
+  Or Unzip`launch_claude.zip`  
+  navigate to \dist\launch_claude  
   add launch_claude.exe to desktop(shortcut)
