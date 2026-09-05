@@ -1,18 +1,20 @@
 1. **Download Ollama**
 
-  Windows:`irm https://ollama.com/install.ps1 | iex`  
-  Linux&Mac:`curl -fsSL https://ollama.com/install.sh | sh`
+   Windows: `irm https://ollama.com/install.ps1 | iex`  
+   Linux & Mac: `curl -fsSL https://ollama.com/install.sh | sh`
 
-2. **Choose a model *(qwen3-coder:30b)***
+2. **Choose a model** (`qwen3-coder:30b`)
 
-  `ollama pull qwen3-coder:30b`
+   ```bash
+   ollama pull qwen3-coder:30b
+   ```
 
-3. **Launch via claude code**
+3. **Launch via Claude Code**
 
-  `ollama launch claude --config`
-  choose qwen3-coder:30b  
+   ```bash
+   ollama launch claude --config choose qwen3-coder:30b
+   ```
 
-  4.**A .exe for launching**  
-  Unzip`launch_claude.zip`  
-  Navigate to \dist\launch_claude  
-  Add launch_claude.exe to desktop(shortcut)
+4. **Use the `.exe` launcher**
+
+   Unzip `launch_claude.zip`, navigate to `dist\launch_claude`, and add `launch_claude.exe` to the desktop.
