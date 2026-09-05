@@ -15,6 +15,6 @@
    ollama launch claude --config choose qwen3-coder:30b
    ```
 
-4. **Use the `.exe` launcher(Optional)**
+4. **Use the `.exe` launcher (Optional)**
 
    Unzip `launch_claude.zip`, navigate to `dist\launch_claude`, and add `launch_claude.exe` to the desktop.
